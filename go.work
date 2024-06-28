@@ -1,0 +1,6 @@
+go 1.22
+
+use (
+	./tmpl
+	./tmpl_test
+)

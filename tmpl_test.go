@@ -1,4 +1,4 @@
-package template_test
+package tmpl_test
 
 import (
 	"fmt"
